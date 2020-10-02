@@ -3,5 +3,9 @@
 
 
 
-# El SQL es el original dónde la Columna estado aún es "integer".... hay que convertirla a "String" en la Base de Datos.
+El SQL es el original dónde la Columna estado aún es "integer".... 
+hay que convertirla a "String" en la Base de Datos.
+
+# Las credenciales de la base de dato en AWS están en el proyecto.
+
 
